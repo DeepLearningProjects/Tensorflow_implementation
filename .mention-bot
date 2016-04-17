@@ -1,0 +1,5 @@
+{
+  "maxReviewers": 5, // Maximum  number of people to ping in the PR message, default is 3
+  "numFilesToCheck": 10, // Number of files to check against, default is 5
+  "message": "@pullRequester, cool! @reviwers, please check this out for @pullRequester."
+}
